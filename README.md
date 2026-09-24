@@ -3,6 +3,11 @@
 A modern and interactive rule-based chatbot designed to assist college students with common academic and campus-related queries.
 
 This project was developed as **CodSoft Task 1** using HTML, CSS, and JavaScript.
+## 🌐 Live Demo
+
+Try the CampusBuddu chatbot online:
+
+👉 [Launch CampusBuddu Chatbot](https://vajidashaik6.github.io/CodSoft-Task-1-Chatbot/)
 
 ## 📌 Project Overview
 
