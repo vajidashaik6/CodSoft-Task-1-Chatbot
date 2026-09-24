@@ -9,6 +9,9 @@ This project was developed as **CodSoft Task 1** using HTML, CSS, and JavaScript
 CampusBuddu is a student-friendly chatbot that provides quick responses to common college-related questions.
 
 The chatbot has a clean and modern interface and uses predefined rules to understand user queries and generate suitable responses.
+## 🖥️ Project Screenshot
+
+![CampusBuddu Chatbot Screenshot](chatbot-screenshot.png)
 
 ## ✨ Features
 
